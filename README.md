@@ -2,6 +2,10 @@
 
 Power BI Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMzJhNzQxMTktYWFkNC00NDI1LWIwMDItOTAxZDRlOTU4NWVkIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9
 
+This dashboard focuses on a a single problem: With whom do we spend our time? Alone? With friends? Or with coworkers? 
+
+This information was plotted with the respondents' age to see trends.
+
 
 # Background
 
@@ -15,14 +19,6 @@ The data source comes from a CSV file on Makeover Monday's data.world page:
 https://data.world/makeovermonday/2022w45
 
 The original article about the datasaet is https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
-
-
-
-# The Data
-
-This dashboard focuses on a a single problem: With whom do we spend our time? Alone? With friends? Or with coworkers? 
-
-This information was plotted with the respondents' age to see trends.
 
 # Evaluation 
 
